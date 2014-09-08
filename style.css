@@ -14,9 +14,9 @@ html   {
 	}
 	
 li    {
-	/* background-color: #FFDBA9; */ 
-	color: #B0252B;
-	/* position: relative; */
+	background-color: #828282; 
+	color: #FFFFFF;
+	position: relative;
 	top: 26px;
 	left: 16%;
 	display: inline;
