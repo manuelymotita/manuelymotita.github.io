@@ -1,0 +1,19 @@
+#header {
+	margin: 0 auto 0 auto;
+	background-image: url("images/foot.png");
+	color: white;
+	padding: 20px;
+	
+	}
+	
+li.nav {
+	background-color: #FFDBA9;
+	color: #B0252B;
+	position: relative;
+	top: 26px;
+	left: 16%;
+	display: inline;
+	margin: 17px;
+	padding: 10px;
+	
+	}
