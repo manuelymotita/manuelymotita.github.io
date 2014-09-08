@@ -7,9 +7,9 @@
 	}
 	
 li    {
-	background-color: #FFDBA9;
+	/* background-color: #FFDBA9; */ 
 	color: #B0252B;
-	position: relative;
+	/* position: relative; */
 	top: 26px;
 	left: 16%;
 	display: inline;
