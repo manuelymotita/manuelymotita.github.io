@@ -1,14 +1,14 @@
 html   {
 	text-align: center;
 	background-color: #FFFFFF;
-	background-image: url("images/back.png")
+
 	}
 	
 	
 #header {
 	margin: 0 auto 0 auto;
-	background-image: url("images/foot.png");
-	color: white;
+	/* background-image: url("images/foot.png"); */
+	color: grey;
 	padding: 20px;
 	
 	}
