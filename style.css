@@ -4,6 +4,15 @@ html   {
 
 	}
 	
+body {
+ 
+	width: 480px;
+
+	margin: 0 auto 0 auto;
+	background-color: #FFFFFF;
+	color: #4D4D4D;
+	}
+	
 	
 #header {
 	margin: 0 auto 0 auto;
