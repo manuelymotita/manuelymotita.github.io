@@ -4,9 +4,10 @@ html   {
 
 	}
 	
-@-ms-viewport{
+@-ms-viewport {
   width: device-width;
-}	
+        }
+        /* This was taken from */
 	
 body {
  	text-align: center;
