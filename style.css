@@ -22,7 +22,9 @@ nav  {
 	margin: 5px;
 	padding: 5px;
 	
-        }	
+        }
+        
+        /* Got hexcode from http://www.2createawebsite.com/build/hex-colors.html#hextool */
 	
 li    {
 	background-color: #00aeff; 
