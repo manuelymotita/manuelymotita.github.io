@@ -7,7 +7,7 @@ html   {
 @-ms-viewport {
   width: device-width;
         }
-        /* This was taken from */
+        /* This was taken from http://css-tricks.com/snippets/html/responsive-meta-tag/ */
 	
 body {
  	text-align: center;
