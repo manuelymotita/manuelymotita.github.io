@@ -42,7 +42,12 @@ p      {
 	text-align: justify;
 	
         }
-	
+
+img    {
+	width: 100%;
+	height: auto;
+}	
+
 footer {
 	background-color: #00aeff;
 	color: #FFFFFF;
