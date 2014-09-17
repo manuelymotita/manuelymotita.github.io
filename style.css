@@ -15,6 +15,7 @@ body {
 	/*margin: 0 auto 0 auto;*/
 	background-color: #FFFFFF;
 	color: #4D4D4D;
+	z-index: -2;
 	}
 
 #logo {
