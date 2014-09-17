@@ -16,6 +16,11 @@ body {
 	background-color: #FFFFFF;
 	color: #4D4D4D;
 	}
+
+#logo {
+	width: 20px;
+	height: 20px;
+}
 	
 nav  {
 	background-color: #00aeff;
