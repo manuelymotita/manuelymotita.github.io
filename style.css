@@ -20,7 +20,8 @@ body {
 #logo {
 	width: 60%;
 	height: 60%;
-	float: center;
+	margin-left: auto;
+    	margin-right: auto;
 }
 	
 nav  {
