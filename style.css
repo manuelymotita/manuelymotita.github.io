@@ -13,7 +13,7 @@ body {
  	text-align: center;
 	/*width: 480px; */
 	/*margin: 0 auto 0 auto;*/
-	/*background-color: #FFFFFF;*/
+	background-color: #FFFFFF;
 	color: #4D4D4D;
 	}
 
@@ -32,8 +32,9 @@ nav  {
         }
         
 #line {
-	position: absolute;
+	position: relative;
 	top: -100px;
+	z-index: -2;
 }
         
         /* Got hexcode from http://www.2createawebsite.com/build/hex-colors.html#hextool */
