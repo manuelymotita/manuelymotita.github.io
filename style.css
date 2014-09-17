@@ -15,7 +15,6 @@ body {
 	/*margin: 0 auto 0 auto;*/
 	background-color: #FFFFFF;
 	color: #4D4D4D;
-	z-index: -2;
 	}
 
 #logo {
@@ -35,8 +34,7 @@ nav  {
 #line {
 	position: relative;
 	top: -70px;
-	z-index: -1;
-}
+	}
         
         /* Got hexcode from http://www.2createawebsite.com/build/hex-colors.html#hextool */
 	
@@ -60,7 +58,7 @@ p      {
 img    {
 	width: 100%;
 	height: auto;
-}	
+	}	
 
 footer {
 	background-color: #FFFFFF;
