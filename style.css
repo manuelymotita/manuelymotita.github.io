@@ -58,7 +58,10 @@ p      {
 img    {
 	width: 100%;
 	height: auto;
-	}	
+	}
+ul.gallery {
+	display: inline;
+	}
 
 footer {
 	background-color: #FFFFFF;
