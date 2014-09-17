@@ -21,14 +21,14 @@ body {
 	width: 60%;
 	height: 60%;
 	margin-left: auto;
-    	margin-right: auto;
+    margin-right: auto;
 }
 	
 nav  {
 	/*background-color: #FFFFFF;*/
 	margin-left: auto;
-    	margin-right: auto;
-	padding: 5px;
+    margin-right: auto;
+	padding-right: 40px;
 	
         }
         
@@ -52,7 +52,9 @@ li    {
 	}
 	
 p      {
-	text-align: justify;
+		text-align: justify;
+		font-family: "Helvetica Neue";
+		font-weight: 100;
 	
         }
 
