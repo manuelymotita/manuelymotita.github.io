@@ -25,7 +25,7 @@ body {
 }
 	
 nav  {
-	background-color: #FFFFFF;
+	/*background-color: #FFFFFF;*/
 	margin: 5px;
 	padding: 5px;
 	
@@ -34,13 +34,13 @@ nav  {
 #line {
 	position: relative;
 	top: -100px;
-	z-index: -2;
+	z-index: -1;
 }
         
         /* Got hexcode from http://www.2createawebsite.com/build/hex-colors.html#hextool */
 	
 li    {
-	background-color: #FFFFFF; 
+	/*background-color: #FFFFFF;*/ 
 	color: #70CBD7;
 	position: relative;
 	/*top: 26px;
